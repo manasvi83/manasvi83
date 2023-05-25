@@ -15,28 +15,22 @@
 </div>
 
 <h1 align="center">
-  💫😶‍🌫️ Manasvi Singh
+  💫Manasvi Singh
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="manasvi83" width="30px"/>
 </h1>
-<table>
-  <tr>
-    <td>
-      <div>
-       🔭 I'm currently working on ReactJS projects<br>🤝 I’m looking to collaborate on Web development projects<br>🌱 I'm currently learning MERN development and Data Structures and Algorithm<br>💬 Ask me about CSS, JavaSciprt, DSA and ReactJs<br>📧 How to reach me manasvi.singh160706@gmail.com<br>⚡ Fun fact: <br>   
-<!--         <div> -->
-          while(life){ <br> &emsp;&emsp; tea(); <br> &emsp;&emsp; code(); <br> &emsp;&emsp; sleep();<br> }<br> 
-<!--         </div> -->
-      </div>
-    </td>
-    <td>
-      <div>
-        <img src="https://github.com/manasvi83/manasvi83/assets/103330308/efd81faf-283e-478b-a2c1-b6c26534844e" alt="manasvi83" width="320">
-      </div>
-    </td>
-  </tr>
-</table>
+
 <div>
+       🔭 I'm currently working on ReactJS projects<br>🤝 I’m looking to collaborate on Web development projects<br>🌱 I'm currently learning MERN development and Data Structures and Algorithm<br>💬 Ask me about CSS, JavaSciprt, DSA and ReactJs<br>📧 How to reach me manasvi.singh160706@gmail.com<br>⚡ Fun fact: <br>   
+  <table>
+    <tr>
+      <td>
+        while(life){ <br> &emsp;&emsp; tea(); <br> &emsp;&emsp; code(); <br> &emsp;&emsp; sleep();<br> }<br> 
+      </td>
+    </tr>
+  </table>
 </div>
+
+
 
 <h1 align="center">
   💻 Tech Stack
