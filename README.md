@@ -1,7 +1,7 @@
-<div align="center" >
+<!-- <div align="center" >
   <img src="https://github.com/manasvi83/manasvi83/assets/103330308/ed7c244b-2654-48ec-92ad-2e4b1d9341af" width="150" align="center" alt="manasvi83" >
-</div>
-<br>
+</div> 
+<br> -->
 <div id="badges" align="center">
   <a href="https://instagram.com/manasvi_98">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
