@@ -3,9 +3,9 @@
 </div> 
 <br> -->
 <div id="badges" align="center">
-  <a href="https://x.com/polaroid_mm&s=08">
+<!--   <a href="https://x.com/polaroid_mm&s=08">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Twitter&logoColor=white" alt="Instagram Badge"/>
-  </a>
+  </a> -->
  
   <a href="https://linkedin.com/in/manasvi98">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
