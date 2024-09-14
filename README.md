@@ -15,9 +15,13 @@
 </div>
 
 <h1 align="center">
-  💫Manasvi Singh
+  💫 Hi! I'm Manasvi Singh
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="manasvi83" width="30px"/>
 </h1>
+<!-- <hr/> -->
+<h2 align="center">
+  Software Developer 
+</h2>
 
 <div>
 🔭 I'm currently working on MERN projects<br>
